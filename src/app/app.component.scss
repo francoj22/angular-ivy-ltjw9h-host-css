@@ -1,0 +1,20 @@
+p {
+  font-family: Lato;
+  color: red;
+}
+
+app-test {
+  p {
+    color: red;
+  }
+}
+
+app-test2 p {
+  color: red;
+}
+
+:host {
+  p {
+    color: blue;
+  }
+}
